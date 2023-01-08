@@ -1,3 +1,3 @@
-# bigdata processing&std.github.io
-suzhou,china,vehicle dataset
-volume：RTICIDNEW,     LEN,       FUNCLASS,UPDATE_TIME,   V_SPEED
+# bigdata processing&std template
+suzhou,china,vehicle datasets(10.7MB)
+4 volumes：RTICIDNEW,     LEN,     ,UPDATE_TIME,   V_SPEED
