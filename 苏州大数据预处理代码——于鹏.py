@@ -1,3 +1,4 @@
+#utf8
 #引入包和加载数据
 from pandas import Series,DataFrame
 from sklearn import preprocessing
